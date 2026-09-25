@@ -1,0 +1,22 @@
+# Competition data
+dataset/
+
+# Generated outputs
+output/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment
+.venv/
+venv/
+
+# Secrets
+.env
+*.pem
+
